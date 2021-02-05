@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"Map.9ad09f98.css","sourceRoot":"..","sourcesContent":["#map {\n    height: 400px;\n    /* The height is 400 pixels */\n    width: 100%;\n    /* The width is the width of the web page */\n  }\n\n  body{\n      background-color:rebeccapurple;\n  }"]}
